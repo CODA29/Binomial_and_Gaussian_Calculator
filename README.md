@@ -7,8 +7,8 @@ If you wish to install the package in your local environment, use this command:
 
 To use the Binomial and Gaussian functions in your project, use this command:
 
-				- from bino_dag_prob import Binomial
-				- from bino_dag_prob import Gaussian
+				from bino_dag_prob import Binomial
+				from bino_dag_prob import Gaussian
 
 A usecase scenario of these functions would be:
 
