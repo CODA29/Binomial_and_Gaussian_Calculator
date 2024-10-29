@@ -3,7 +3,7 @@ This function calculates the mean, standard deviation, and plot a histogram and/
 
 This package has been published on pypi.org 
 If you wish to install the package in your local environment, use this command:
-				- pip install bino-dag-prob
+				' - pip install bino-dag-prob '
 
 To use the Binomial and Gaussian functions in your project, use this command:
 
